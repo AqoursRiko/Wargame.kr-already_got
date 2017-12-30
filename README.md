@@ -10,4 +10,4 @@ you've already got key! :p
 
 1. 크롬혹은파이어폭스를이용하여 HTTP Response header를 보면되는 간단한 문제이다
 
-2. [./image.jpg]
+2. (./image.jpg)
